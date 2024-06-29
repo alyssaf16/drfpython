@@ -1,0 +1,10 @@
+asgiref==3.8.1
+Django==5.0.6
+djangorestframework==3.15.2
+drf-nested-routers==0.94.1
+future==1.0.0
+repoze.lru==0.7
+Routes==2.5.1
+serializers==0.2.4
+six==1.16.0
+sqlparse==0.5.0
